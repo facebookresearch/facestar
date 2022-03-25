@@ -26,6 +26,7 @@ See the [paper](https://github.com/facebookresearch/facestar/) for more details.
 ## Download
 
 The dataset is partitioned into a trainset and a testset for each speaker. Within each partition, there are several sessions, each of which is further subdivided into cuts of about 30 seconds.
+For each session, the videos are provided without sound as `sessionXX_cutYY.mp4` and the corresponding audio is provided in the wave file `sessionXX_cutYY.wav`.
 
 ### Automatic Download
 
