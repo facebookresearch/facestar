@@ -3,7 +3,7 @@
 
 ## Description
 
-Existing audio-visual dataset for human speech are either captured in a clean, controlled environment but contain only a small amount of speech data without natural conversations, or are collected *in-the-wild* with unreliable audio quality, interfering sounds, low face resolution, and unreliable or occluded lip motion.
+Existing audio-visual datasets for human speech are either captured in a clean, controlled environment but contain only a small amount of speech data without natural conversations, or are collected *in-the-wild* with unreliable audio quality, interfering sounds, low face resolution, and unreliable or occluded lip motion.
 
 The **Facestar dataset** aims to enable research on audio-visual modeling in a large-scale and high-quality setting. Core dataset features:
 * 10 hours of high-quality audio-visual speech data
@@ -13,7 +13,7 @@ The **Facestar dataset** aims to enable research on audio-visual modeling in a l
 * natural speech: all data is conversational speech in a video-conferencing setup
 * full face visibility: speakers are facing the camera while talking
 
-See the [paper](https://github.com/facebookresearch/facestar/) for more details. If you use the dataset, please cite
+See the [paper](https://github.com/facebookresearch/facestar/releases/download/paper_materials/paper.pdf) for more details. If you use the dataset, please cite
 ```
 @inproceedings{yang2022audiovisual,
   title={Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis},
@@ -42,5 +42,5 @@ If you do not need the full dataset but only selected sessions, you can download
 
 ## License
 
-The code and dataset are released under [CC-NC 4.0 International license](https://github.com/facebookresearch/facestar/blob/main/LICENSE).
+The dataset is released under [CC-NC 4.0 International license](https://github.com/facebookresearch/facestar/blob/main/LICENSE).
 
