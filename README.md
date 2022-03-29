@@ -17,7 +17,7 @@ See the [paper](https://github.com/facebookresearch/facestar/releases/download/p
 ```
 @inproceedings{yang2022audiovisual,
   title={Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis},
-  author={Yang, Karren and Markovic, Dejan and Richard, Alexander and Krenn, Steven and Agrawal, Vasu},
+  author={Yang, Karren and Markovic, Dejan and Krenn, Steven and Agrawal, Vasu and Richard, Alexander},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2022}
 }
